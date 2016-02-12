@@ -10,3 +10,4 @@ class CreatePlaces < ActiveRecord::Migration
     end
   end
 end
+
