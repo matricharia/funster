@@ -42,12 +42,18 @@ body {
     color:grey; }
 
 .pagination {
+	display: block;
 	background: White;
 	padding:3px;
+	max-width:150px;
 	text-align:center;
 	margin-left:auto;
 	margin-right:auto;
-	
+	margin-top:20px;
+}
+
+hr {
+	clear:both;
 }
 
 
